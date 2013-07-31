@@ -1,4 +1,5 @@
 homebrew-igcc
 =============
 
-Simple homebrew installation script for igcc, the Interactive-GCC REPL
+Simple homebrew packageing script for igcc, the Interactive-GCC REPL.
+
